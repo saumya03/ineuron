@@ -1,0 +1,4 @@
+https://seaborn.pydata.org/index.html
+https://plotly.com/python/plotly-express/
+https://github.com/santosjorge/cufflinks
+https://github.com/sudh9931/graph
